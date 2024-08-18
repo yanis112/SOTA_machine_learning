@@ -21,10 +21,6 @@
 * **Groq LLaMA 3.1 70B**: A Highly Performant Language Model for Extremely Fast Inference  
 	+ [Groq LLaMA 3.1 70B](https://console.groq.com/playground?model=llama-3.1-70b-versatile) 🕊️ (free) is a highly performant language model for fast inference, offering a playground and free API for testing.
 
-### Text-to-Speech and Voice Cloning 🎙️
-
-* **XTTS-v2**: A State-of-the-Art Text-to-Speech Model  
-	+ [XTTS-v2](https://huggingface.co/coqui/XTTS-v2) 🕊️ (free) is a state-of-the-art text-to-speech model that can generate natural and realistic voices from text. XTTS-v2 is also capable of multilingual voice cloning, allowing it to imitate different voices and generate text in various languages.
 
 **Image-based Models** 🖼️
 ----------------------
@@ -48,6 +44,16 @@
 * **BifRefNet**: A State-of-the-Art Background Removal Model  
 	+ [BifRefNet](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ (free) is a highly performant background removal model that achieves high accuracy on various images.
 
+### Object Detection: State-of-the-Art Technology 🎯
+
+**YOLO v9**: Next-Generation Object Detection  
+* YOLO v9 🔒 (private/paid) represents the latest in the YOLO series, pushing the boundaries of object detection with improved accuracy and speed. This version continues the legacy of YOLO by offering real-time object detection suitable for a wide range of applications, from autonomous vehicles to real-time video analytics. It maintains the balance between performance and computational efficiency, making it a go-to solution for developers needing high-speed, accurate detection systems.
+
+### Image Segmentation: Cutting-Edge Models 🖼️✂️
+
+**Segment Anything 2 (SAM2)**: Advanced Visual Segmentation for Images and Videos  
+* [Segment Anything 2 (SAM2)](https://github.com/facebookresearch/segment-anything-2) 🕊️ (free) by Facebook is a powerful tool for visual segmentation tasks. This model builds on the original SAM by extending its capabilities to video, allowing for real-time, interactive segmentation in both images and videos. SAM2 uses a transformer-based architecture optimized for efficiency and high performance across various visual domains, making it suitable for applications requiring promptable segmentation and tracking.
+
 **Audio-based Models** 🎧
 ----------------------
 
@@ -56,6 +62,16 @@
 * **Whisper v3**: A State-of-the-Art Speech Recognition Model  
 	+ **Insanely Fast Whisper**: [Insanely Fast Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) 🕊️ (free) is a cutting-edge speech recognition system designed for speed and efficiency.  
 	+ **OpenAI Whisper v3**: [OpenAI Whisper v3](https://huggingface.co/openai/whisper-large-v3) 🕊️ (free) is a state-of-the-art speech recognition model that excels in performance and accuracy.
+
+### Audio Translation: Speech-to-Speech 🗣️➡️🗣️
+
+**SeamlessM4T (Facebook)**: A Multilingual Speech-to-Speech Translation Model  
+* [SeamlessM4T](https://about.fb.com/news/2023/08/seamlessm4t-multimodal-ai-model/) 🕊️ (free) is a cutting-edge model developed by Facebook that supports speech-to-speech translation in nearly 100 languages. It is designed to provide seamless, real-time translation while preserving the nuances and expressiveness of the speaker's voice. This model also offers capabilities for speech-to-text, text-to-speech, and text-to-text translations, making it a versatile tool for global communication.
+
+### Text-to-Speech and Voice Cloning 🎙️
+
+* **XTTS-v2**: A State-of-the-Art Text-to-Speech Model  
+	+ [XTTS-v2](https://huggingface.co/coqui/XTTS-v2) 🕊️ (free) is a state-of-the-art text-to-speech model that can generate natural and realistic voices from text. XTTS-v2 is also capable of multilingual voice cloning, allowing it to imitate different voices and generate text in various languages.
 
 **Video-based Models** 🎥
 ----------------------
@@ -72,3 +88,4 @@
 
 * **GitHub Copilot**: A Powerful Coding Assistant  
 	+ [GitHub Copilot](https://github.com/features/copilot) 💸 (paid) is a powerful coding assistant.
+
