@@ -14,11 +14,11 @@
 **Text-based Models**
 ----------------------
 
-### Language Models
+### Fast/Small Language Models
 
-* **SmolLLM (Hugging Face)**: A Small but Powerful Language Model
+* **SmolLLM (Hugging Face)**: A Very Small but Powerful Language Model
 	+ [SmolLLM](https://huggingface.co/smolllm) 🤝 (partially open source) is a small but powerful language model that achieves high accuracy on various natural language processing tasks.
-* **Groq LLaMA 3.1 70B**: A Highly Performant Language Model for Fast Inference
+* **Groq LLaMA 3.1 70B**: A Highly Performant Language Model for Extremmely Fast Inference
 	+ [Groq LLaMA 3.1 70B](https://console.groq.com/playground?model=llama-3.1-70b-versatile) 🕊️ (open source and free API) is a highly performant language model for fast inference, offering a playground and free API for testing.
 
 ### Text-to-Speech and Voice Cloning
