@@ -72,6 +72,14 @@
 
 * **XTTS-v2**: A State-of-the-Art Text-to-Speech Model  
 	+ [XTTS-v2](https://huggingface.co/coqui/XTTS-v2) 🕊️ (free) is a state-of-the-art text-to-speech model that can generate natural and realistic voices from text. XTTS-v2 is also capable of multilingual voice cloning, allowing it to imitate different voices and generate text in various languages.
+* **Parler-TTS**: A Modern Text-to-Speech Model  
+	+ [Parler-TTS](https://huggingface.co/parler/tts) 🕊️ (free) provides high-quality and natural-sounding speech synthesis from text, supporting multiple languages and accents.
+
+### Voice Activity Detection (VAD) 🕵🏻‍♂️
+
+* **Silero VAD v5**: A Cutting-Edge Voice Activity Detection Model  
+	+ [Silero VAD v5](https://github.com/snakers4/silero-vad) 🕊️ (free) is a highly accurate voice activity detection model designed to differentiate between speech and non-speech segments in audio. It is known for its efficiency and low latency, making it suitable for real-time applications.
+
 
 **Video-based Models** 🎥
 ----------------------
@@ -88,4 +96,7 @@
 
 * **GitHub Copilot**: A Powerful Coding Assistant  
 	+ [GitHub Copilot](https://github.com/features/copilot) 💸 (paid) is a powerful coding assistant.
+
+
+
 
