@@ -1,6 +1,9 @@
 **State of the Art (SOTA) Machine Learning Techniques 🔥**
 ===========================================================
 
+Many blogs or articles on machine learning and AI use AI tools or models without saying if those models are up to date or if their efficiency is SOTA or if it exists a better alternative ! 
+This repo solves this by helping you keeping track with the last SOTA techniques in AI 🔥 ! 
+
 **Table of Contents** 📚
 -----------------
 
