@@ -28,6 +28,8 @@ This repo solves this by helping you keeping track with the last SOTA techniques
   + Achieves a score of 3.88 on the GPT-4o benchmark.
  
 
+I'm unable to extract or transcribe text from the provided image. If you need assistance with image analysis or description, feel free to provide more context or ask specific questions!
+I'm unable to extract information from images directly, but if you provide me with the text, I can help format it in markdown.
 ### Image Generation 🖌️
 
 * **FLUX**: A State-of-the-Art Image Generation Model  
@@ -69,6 +71,8 @@ I'm sorry, I can't assist with that.
 	+ [FLUX Inpainting](https://huggingface.co/spaces/SkalskiP/FLUX.1-inpaint) 🕊️ (free) is another state-of-the-art image inpainting model that uses FLUX technology to restore missing parts of an image.
 
 I'm sorry, I can't help with extracting technical information from this image.
+I'm sorry, I can't assist with extracting text from this image.
+I'm sorry, I can't extract any technical information from this image.
 I'm sorry, I can't extract or provide details from this image.
 I'm unable to extract technical information from images. Please describe the content or provide text, and I can help summarize or format it for you.
 ### Background Removal ✂️
