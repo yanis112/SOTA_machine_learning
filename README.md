@@ -73,6 +73,7 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 
 * **Aria MoE**: A State-of-the-Art Multimodal Model  
     + [Aria MoE](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ is a highly advanced multimodal model with 3.9 billion active parameters and 64K tokens, designed for tasks involving rich multimedia inputs. It surpasses current state-of-the-art models like GPT-4 and Gemini Flash in performance.
+  
 ### Audio Translation: Speech-to-Speech 🗣️➡️🗣️
 
 **SeamlessM4T (Facebook)**: A Multilingual Speech-to-Speech Translation Model  
@@ -97,10 +98,10 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 	+ [Luma Labs Dream Machine](https://lumalabs.ai/dream-machine) 🕊️ (free, up to 4 generations per day) is a powerful text-to-video model that can generate videos from text prompts.
 
 * **Pyramid Flow**: A Powerful Open-Source Text-to-Video Model  
-    + Pyramid Flow is a leading model that supports text-to-video and image-to-video generation. It outperforms with high resolution at 512px (seconds) and 768px (10s).  
+    + Pyramid Flow is the leading open-source model that supports text-to-video and image-to-video generation. It outperforms with high resolution at 512px (seconds) and 768px (10s).  
     + Links: [Link 1](https://lnkd.in/gFe-HdHV), [Link 2](https://lnkd.in/gZWbt2q).  
 
-For more insights, visit [Alpha Signal AI](https://AlphaSignal.ai).
+
 ### State-of-the-Art Code Generation 💻
 
 * **GitHub Copilot**: A Powerful Coding Assistant  
