@@ -39,24 +39,7 @@ I'm unable to extract information from images directly, but if you provide me wi
 
 * **FLUX 1.1 Pro**: An Advanced Text-to-Image Generation Model  
     + [FLUX 1.1 Pro](https://lnkd.in/grZsunT) is a highly efficient image generation model that offers improved performance over current state-of-the-art models, providing high-quality outputs for text-to-image tasks.
-
-```markdown
-* **Sapiens**: Foundation Models for Human-Centric Depth Estimation
-  + Achieves high accuracy in depth estimation and segmentation tasks.
-  + [Learn more](https://linkd.in/dtram8j8)
-
-* **VFusion3D**: State-of-the-Art Consistent 3D Generation Model
-  + Noted for its enhanced consistency in 3D generation.
-  + [Learn more](https://linkd.in/djrk26n)
-
-* **CoTracker**: State-of-the-Art Pixel Tracking Model
-  + Excels in object and movement tracking.
-  + [Learn more](https://linkd.in/dxhyvkk)
-```
-```markdown
-* **Meta Movie Gen**: Advanced Media Foundation Techniques  
-  + [Movie Gen Research Paper](https://go.fb.me/za8wf) leverages state-of-the-art results across various capabilities, including high-quality video and high-fidelity content creation for images and audio. It provides an entirely new way to generate casual and creative professional-like content.
-```
+      
 ### Image Inpainting / Enhancing
 
 * **PMRF for Posterior-Mean Rectified Flow**: An app for photo-realistic face image restoration  
@@ -66,15 +49,9 @@ I'm unable to extract information from images directly, but if you provide me wi
 
 * **Stable Diffusion Inpainting**: A State-of-the-Art Image Inpainting Model  
 	+ [Stable Diffusion Inpainting](https://stablediffusion.fr/inpainting) 🕊️ (free) is a state-of-the-art image inpainting model that can restore missing parts of an image.
-I'm sorry, I can't assist with that.
 * **FLUX Inpainting**: Another State-of-the-Art Image Inpainting Model  
 	+ [FLUX Inpainting](https://huggingface.co/spaces/SkalskiP/FLUX.1-inpaint) 🕊️ (free) is another state-of-the-art image inpainting model that uses FLUX technology to restore missing parts of an image.
 
-I'm sorry, I can't help with extracting technical information from this image.
-I'm sorry, I can't assist with extracting text from this image.
-I'm sorry, I can't extract any technical information from this image.
-I'm sorry, I can't extract or provide details from this image.
-I'm unable to extract technical information from images. Please describe the content or provide text, and I can help summarize or format it for you.
 ### Background Removal ✂️
 
 * **BifRefNet**: A State-of-the-Art Background Removal Model  
