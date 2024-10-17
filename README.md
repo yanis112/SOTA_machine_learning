@@ -38,6 +38,19 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 * **FLUX 1.1 Pro**: An Advanced Text-to-Image Generation Model  
     + [FLUX 1.1 Pro](https://lnkd.in/grZsunT) is a highly efficient image generation model that offers improved performance over current state-of-the-art models, providing high-quality outputs for text-to-image tasks.
 
+```markdown
+* **Sapiens**: Foundation Models for Human-Centric Depth Estimation
+  + Achieves high accuracy in depth estimation and segmentation tasks.
+  + [Learn more](https://linkd.in/dtram8j8)
+
+* **VFusion3D**: State-of-the-Art Consistent 3D Generation Model
+  + Noted for its enhanced consistency in 3D generation.
+  + [Learn more](https://linkd.in/djrk26n)
+
+* **CoTracker**: State-of-the-Art Pixel Tracking Model
+  + Excels in object and movement tracking.
+  + [Learn more](https://linkd.in/dxhyvkk)
+```
 ### Image Inpainting / Enhancing
 
 * **PMRF for Posterior-Mean Rectified Flow**: An app for photo-realistic face image restoration  
