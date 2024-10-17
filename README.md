@@ -67,7 +67,6 @@ I'm unable to extract or analyze the technical information from the image. If yo
 
 ### Image Segmentation: Cutting-Edge Models 🖼️✂️
 
-**Segment Anything 2 (SAM2)**: Advanced Visual Segmentation for Images and Videos  
 * **Sapiens**: A Family of Foundation Models for Human-Centric Depth Estimation  
     + [Sapiens](https://link-to-sapiens-model) 🕊️ (free) outperforms current SOTA by providing accurate depth estimates tailored to human interactions, enhancing applications in computer vision.
 
@@ -76,7 +75,9 @@ I'm unable to extract or analyze the technical information from the image. If yo
 
 * **CoTracker**: A Cutting-Edge Pixel Tracking Model  
     + [CoTracker](https://link-to-cotracker) 🕊️ (free) achieves superior tracking performance by leveraging advanced algorithms, making it highly effective in dynamic scenario tracking within computer vision.
-* [Segment Anything 2 (SAM2)](https://github.com/facebookresearch/segment-anything-2) 🕊️ (free) by Facebook is a powerful tool for visual segmentation tasks. This model builds on the original SAM by extending its capabilities to video, allowing for real-time, interactive segmentation in both images and videos. SAM2 uses a transformer-based architecture optimized for efficiency and high performance across various visual domains, making it suitable for applications requiring promptable segmentation and tracking.
+
+* **Segment Anything 2**:
+    + [Segment Anything 2 (SAM2)](https://github.com/facebookresearch/segment-anything-2) 🕊️ (free) by Facebook is a powerful tool for visual segmentation tasks. This model builds on the original SAM by extending its capabilities to video, allowing for real-time, interactive segmentation in both images and videos. SAM2 uses a transformer-based architecture optimized for efficiency and high performance across various visual domains, making it suitable for applications requiring promptable segmentation and tracking.
 
 ### Audio Transcription 📝
 
