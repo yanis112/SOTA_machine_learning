@@ -68,6 +68,8 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 	+ **Insanely Fast Whisper**: [Insanely Fast Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) 🕊️ (free) is a cutting-edge speech recognition system designed for speed and efficiency.  
 	+ **OpenAI Whisper v3**: [OpenAI Whisper v3](https://huggingface.co/openai/whisper-large-v3) 🕊️ (free) is a state-of-the-art speech recognition model that excels in performance and accuracy.
 
+* **Aria MoE**: A State-of-the-Art Multimodal Model  
+    + [Aria MoE](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ is a highly advanced multimodal model with 3.9 billion active parameters and 64K tokens, designed for tasks involving rich multimedia inputs. It surpasses current state-of-the-art models like GPT-4 and Gemini Flash in performance.
 ### Audio Translation: Speech-to-Speech 🗣️➡️🗣️
 
 **SeamlessM4T (Facebook)**: A Multilingual Speech-to-Speech Translation Model  
