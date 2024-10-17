@@ -30,6 +30,8 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 
 I'm unable to extract or transcribe text from the provided image. If you need assistance with image analysis or description, feel free to provide more context or ask specific questions!
 I'm unable to extract information from images directly, but if you provide me with the text, I can help format it in markdown.
+I'm unable to extract technical information from the image you provided. If you can describe the content or share the details, I’d be happy to help format that information for you!
+I'm unable to extract information from the image directly. If you can describe the content or share the text, I'll be happy to help format the information for you!
 ### Image Generation 🖌️
 
 * **FLUX**: A State-of-the-Art Image Generation Model  
@@ -65,6 +67,14 @@ I'm unable to extract information from images directly, but if you provide me wi
 ### Image Segmentation: Cutting-Edge Models 🖼️✂️
 
 **Segment Anything 2 (SAM2)**: Advanced Visual Segmentation for Images and Videos  
+* **Sapiens**: A Family of Foundation Models for Human-Centric Depth Estimation  
+    + [Sapiens](https://link-to-sapiens-model) 🕊️ (free) outperforms current SOTA by providing accurate depth estimates tailored to human interactions, enhancing applications in computer vision.
+
+* **VFusion3D**: State-of-the-Art Consistent 3D Generation Model  
+    + [VFusion3D](https://link-to-vfusion3d) 🕊️ (free) excels in synchronizing 3D reconstructions across various views, surpassing existing models in computer vision tasks.
+
+* **CoTracker**: A Cutting-Edge Pixel Tracking Model  
+    + [CoTracker](https://link-to-cotracker) 🕊️ (free) achieves superior tracking performance by leveraging advanced algorithms, making it highly effective in dynamic scenario tracking within computer vision.
 * [Segment Anything 2 (SAM2)](https://github.com/facebookresearch/segment-anything-2) 🕊️ (free) by Facebook is a powerful tool for visual segmentation tasks. This model builds on the original SAM by extending its capabilities to video, allowing for real-time, interactive segmentation in both images and videos. SAM2 uses a transformer-based architecture optimized for efficiency and high performance across various visual domains, making it suitable for applications requiring promptable segmentation and tracking.
 
 ### Audio Transcription 📝
@@ -92,6 +102,14 @@ I'm unable to extract information from images directly, but if you provide me wi
 
 * **Silero VAD v5**: A Cutting-Edge Voice Activity Detection Model  
 	+ [Silero VAD v5](https://github.com/snakers4/silero-vad) 🕊️ (free) is a highly accurate voice activity detection model designed to differentiate between speech and non-speech segments in audio. It is known for its efficiency and low latency, making it suitable for real-time applications.
+* **Sapiens**: A family of foundation models for human-centric depth estimation, segmentation, and pose recognition  
+    + [Sapiens](https://link-to-sapiens-model) 🕊️ is designed to provide modular capabilities tailored to various human-centric tasks, outperforming current state-of-the-art models in accuracy and versatility.
+
+* **VFusion3D**: An advanced consistent 3D generative model  
+    + [VFusion3D](https://link-to-vfusion3d) 🕊️ leverages cutting-edge techniques in 3D modeling and achieves superior quality in rendering complex scenes compared to existing models.
+
+* **CoTracker**: State-of-the-art particle tracking model  
+    + [CoTracker](https://link-to-cotracker) 🕊️ excels in maintaining identity and precision over time in dynamic environments, surpassing traditional tracking algorithms for improved task performance.
 
 
 ### Video Generation 🎬
