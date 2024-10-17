@@ -22,6 +22,13 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 * **Groq LLaMA 3.1 70B**: A Highly Performant Language Model for Extremely Fast Inference  
 	+ [Groq LLaMA 3.1 70B](https://console.groq.com/playground?model=llama-3.1-70b-versatile) 🕊️ (free) is a highly performant language model for fast inference, offering a playground and free API for testing.
 
+### Structured Text extraction
+
+* **NuExtract 1.5**: A multilingual tool designed for enhanced extraction capabilities  
+  + [NuExtract 1.5](https://lnkd.in/eBjN96Sy) is a powerful multilingual extraction tool that supports multiple contexts and exhibits significant performance improvements in comparison to its predecessor.  
+  + Achieves a score of 3.88 on the GPT-4o benchmark.
+ 
+
 ### Image Generation 🖌️
 
 * **FLUX**: A State-of-the-Art Image Generation Model  
@@ -74,14 +81,7 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 * **Silero VAD v5**: A Cutting-Edge Voice Activity Detection Model  
 	+ [Silero VAD v5](https://github.com/snakers4/silero-vad) 🕊️ (free) is a highly accurate voice activity detection model designed to differentiate between speech and non-speech segments in audio. It is known for its efficiency and low latency, making it suitable for real-time applications.
 
-* **NuExtract 1.5**: A multilingual tool designed for enhanced extraction capabilities  
-  + [NuExtract 1.5](https://lnkd.in/eBjN96Sy) is a powerful multilingual extraction tool that supports multiple contexts and exhibits significant performance improvements in comparison to its predecessor.  
-* **Model performance**:  
-  + Achieves a score of 3.88 on the GPT-4o benchmark.
-* **Dataset**:  
-  + Utilizes a multilingual dataset expanded from 4k to 12k samples.  
-* **Contributors**:  
-  + Special thanks to Liam Cripwell and Alexandre Constance for their contributions to this project.
+
 ### Video Generation 🎬
 
 * **Luma Labs Dream Machine**: A Text-to-Video Model  
