@@ -36,6 +36,8 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 * **Imagen3**: Another Highly Performant Image Generation Model  
 	+ [Imagen3](https://github.com/imagen3/imagen3) 🔒 (paid/private) is another highly performant image generation model that achieves high accuracy on various image generation tasks.
 
+* **FLUX 1.1 Pro**: An Advanced Text-to-Image Generation Model  
+    + [FLUX 1.1 Pro](https://lnkd.in/grZsunT) is a highly efficient image generation model that offers improved performance over current state-of-the-art models, providing high-quality outputs for text-to-image tasks.
 ### Image Inpainting 🖼️🖍️
 
 * **Stable Diffusion Inpainting**: A State-of-the-Art Image Inpainting Model  
