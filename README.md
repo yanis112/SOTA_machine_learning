@@ -12,7 +12,7 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 * [Audio-based Models](#audio-based-models) 🎧
 * [Video-based Models](#video-based-models) 🎥
 * [Coding Assistants](#coding-assistants) 👨‍💻
-* [Interface and Dashboard Creation](#interface-and-dashboard-creation) 📊
+
 
 ### Fast/Small Language Models ⚡
 
@@ -27,12 +27,6 @@ This repo solves this by helping you keeping track with the last SOTA techniques
   + [NuExtract 1.5](https://lnkd.in/eBjN96Sy) is a powerful multilingual extraction tool that supports multiple contexts and exhibits significant performance improvements in comparison to its predecessor.  
   + Achieves a score of 3.88 on the GPT-4o benchmark.
  
-
-I'm unable to extract or transcribe text from the provided image. If you need assistance with image analysis or description, feel free to provide more context or ask specific questions!
-I'm unable to extract information from images directly, but if you provide me with the text, I can help format it in markdown.
-I'm unable to extract technical information from the image you provided. If you can describe the content or share the details, I’d be happy to help format that information for you!
-I'm unable to extract information from the image directly. If you can describe the content or share the text, I'll be happy to help format the information for you!
-I'm unable to extract or analyze the technical information from the image. If you can provide details or text from it, I can help format it according to your request.
 ### Image Generation 🖌️
 
 * **FLUX**: A State-of-the-Art Image Generation Model  
@@ -65,7 +59,14 @@ I'm unable to extract or analyze the technical information from the image. If yo
 **YOLO v9**: Next-Generation Object Detection  
 * YOLO v9 🔒 (private/paid) represents the latest in the YOLO series, pushing the boundaries of object detection with improved accuracy and speed. This version continues the legacy of YOLO by offering real-time object detection suitable for a wide range of applications, from autonomous vehicles to real-time video analytics. It maintains the balance between performance and computational efficiency, making it a go-to solution for developers needing high-speed, accurate detection systems.
 
+### Image General Understanding
+* **Aria MoE**: A State-of-the-Art Multimodal Model  
+    + [Aria MoE](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ is a highly advanced multimodal model with 3.9 billion active parameters and 64K tokens, designed for tasks involving rich multimedia inputs. It surpasses current state-of-the-art models like GPT-4 and Gemini Flash in performance.
+
 ### Image Segmentation: Cutting-Edge Models 🖼️✂️
+
+* **Segment Anything 2**:
+    + [Segment Anything 2 (SAM2)](https://github.com/facebookresearch/segment-anything-2) 🕊️ (free) by Facebook is a powerful tool for visual segmentation tasks. This model builds on the original SAM by extending its capabilities to video, allowing for real-time, interactive segmentation in both images and videos. SAM2 uses a transformer-based architecture optimized for efficiency and high performance across various visual domains, making it suitable for applications requiring promptable segmentation and tracking.
 
 * **Sapiens**: A Family of Foundation Models for Human-Centric Depth Estimation  
     + [Sapiens](https://link-to-sapiens-model) 🕊️ (free) outperforms current SOTA by providing accurate depth estimates tailored to human interactions, enhancing applications in computer vision.
@@ -76,25 +77,19 @@ I'm unable to extract or analyze the technical information from the image. If yo
 * **CoTracker**: A Cutting-Edge Pixel Tracking Model  
     + [CoTracker](https://link-to-cotracker) 🕊️ (free) achieves superior tracking performance by leveraging advanced algorithms, making it highly effective in dynamic scenario tracking within computer vision.
 
-* **Segment Anything 2**:
-    + [Segment Anything 2 (SAM2)](https://github.com/facebookresearch/segment-anything-2) 🕊️ (free) by Facebook is a powerful tool for visual segmentation tasks. This model builds on the original SAM by extending its capabilities to video, allowing for real-time, interactive segmentation in both images and videos. SAM2 uses a transformer-based architecture optimized for efficiency and high performance across various visual domains, making it suitable for applications requiring promptable segmentation and tracking.
-
 ### Audio Transcription 📝
 
 * **Whisper v3**: A State-of-the-Art Speech Recognition Model  
 	+ **Insanely Fast Whisper**: [Insanely Fast Whisper](https://github.com/Vaibhavs10/insanely-fast-whisper) 🕊️ (free) is a cutting-edge speech recognition system designed for speed and efficiency.  
 	+ **OpenAI Whisper v3**: [OpenAI Whisper v3](https://huggingface.co/openai/whisper-large-v3) 🕊️ (free) is a state-of-the-art speech recognition model that excels in performance and accuracy.
 
-* **Aria MoE**: A State-of-the-Art Multimodal Model  
-    + [Aria MoE](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ is a highly advanced multimodal model with 3.9 billion active parameters and 64K tokens, designed for tasks involving rich multimedia inputs. It surpasses current state-of-the-art models like GPT-4 and Gemini Flash in performance.
+
 * **VoiceRestore**: A State-of-the-Art Audio Restoration Model  
     + [VoiceRestore](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ (free) utilizes Flow-Matching Transformers for superior audio restoration, effectively handling noise, reverberations, and distortions. This model significantly improves audio quality compared to current state-of-the-art approaches.  
    
 * **Gradio**: A Framework for Building Interactive Demos  
     + [Gradio](https://gradio.app) is an excellent tool for creating intuitive interfaces for machine learning models, enhancing user engagement and simplifying the demonstration of model capabilities.
-* **VoiceRestore**: An Advanced Audio Restoration Model  
-  + [VoiceRestore](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ (free) utilizes Flow-Matching Transformers for superior sound quality restoration, effectively handling reverb, distortions, and noise, making it highly efficient for sound editing tasks.
-  
+
 ### Audio Translation: Speech-to-Speech 🗣️➡️🗣️
 
 **SeamlessM4T (Facebook)**: A Multilingual Speech-to-Speech Translation Model  
@@ -111,14 +106,6 @@ I'm unable to extract or analyze the technical information from the image. If yo
 
 * **Silero VAD v5**: A Cutting-Edge Voice Activity Detection Model  
 	+ [Silero VAD v5](https://github.com/snakers4/silero-vad) 🕊️ (free) is a highly accurate voice activity detection model designed to differentiate between speech and non-speech segments in audio. It is known for its efficiency and low latency, making it suitable for real-time applications.
-* **Sapiens**: A family of foundation models for human-centric depth estimation, segmentation, and pose recognition  
-    + [Sapiens](https://link-to-sapiens-model) 🕊️ is designed to provide modular capabilities tailored to various human-centric tasks, outperforming current state-of-the-art models in accuracy and versatility.
-
-* **VFusion3D**: An advanced consistent 3D generative model  
-    + [VFusion3D](https://link-to-vfusion3d) 🕊️ leverages cutting-edge techniques in 3D modeling and achieves superior quality in rendering complex scenes compared to existing models.
-
-* **CoTracker**: State-of-the-art particle tracking model  
-    + [CoTracker](https://link-to-cotracker) 🕊️ excels in maintaining identity and precision over time in dynamic environments, surpassing traditional tracking algorithms for improved task performance.
 
 
 ### Video Generation 🎬
