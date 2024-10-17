@@ -14,7 +14,6 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 * [Coding Assistants](#coding-assistants) 👨‍💻
 * [Interface and Dashboard Creation](#interface-and-dashboard-creation) 📊
 
-
 ### Fast/Small Language Models ⚡
 
 * **SmolLLM (Hugging Face)**: A Very Small but Powerful Language Model  
@@ -38,10 +37,12 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 
 * **FLUX 1.1 Pro**: An Advanced Text-to-Image Generation Model  
     + [FLUX 1.1 Pro](https://lnkd.in/grZsunT) is a highly efficient image generation model that offers improved performance over current state-of-the-art models, providing high-quality outputs for text-to-image tasks.
-* **AlphaCodium**: An Advanced Code Generation Model  
-    + [AlphaCodium](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ (free) outperforms previous models in code generation tasks, achieving improved accuracy with its iterative approach that refines code based on testing data.
+
+### Image Inpainting / Enhancing
+
 * **PMRF for Posterior-Mean Rectified Flow**: An app for photo-realistic face image restoration  
     + [PMRF](https://lnkd.in/gF5TXR5N) can enhance the quality of any image by minimizing mean squared error, achieving high accuracy in photo-realistic image restoration.
+
 ### Image Inpainting 🖼️🖍️
 
 * **Stable Diffusion Inpainting**: A State-of-the-Art Image Inpainting Model  
@@ -99,7 +100,7 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 
 * **GitHub Copilot**: A Powerful Coding Assistant  
 	+ [GitHub Copilot](https://github.com/features/copilot) 💸 (paid) is a powerful coding assistant.
-
-
+* **AlphaCodium**: An Advanced Code Generation Model  
+    + [AlphaCodium](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ (free) outperforms previous models in code generation tasks, achieving improved accuracy with its iterative approach that refines code based on testing data.
 
 
