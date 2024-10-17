@@ -32,6 +32,7 @@ I'm unable to extract or transcribe text from the provided image. If you need as
 I'm unable to extract information from images directly, but if you provide me with the text, I can help format it in markdown.
 I'm unable to extract technical information from the image you provided. If you can describe the content or share the details, I’d be happy to help format that information for you!
 I'm unable to extract information from the image directly. If you can describe the content or share the text, I'll be happy to help format the information for you!
+I'm unable to extract or analyze the technical information from the image. If you can provide details or text from it, I can help format it according to your request.
 ### Image Generation 🖌️
 
 * **FLUX**: A State-of-the-Art Image Generation Model  
@@ -85,6 +86,13 @@ I'm unable to extract information from the image directly. If you can describe t
 
 * **Aria MoE**: A State-of-the-Art Multimodal Model  
     + [Aria MoE](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ is a highly advanced multimodal model with 3.9 billion active parameters and 64K tokens, designed for tasks involving rich multimedia inputs. It surpasses current state-of-the-art models like GPT-4 and Gemini Flash in performance.
+* **VoiceRestore**: A State-of-the-Art Audio Restoration Model  
+    + [VoiceRestore](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ (free) utilizes Flow-Matching Transformers for superior audio restoration, effectively handling noise, reverberations, and distortions. This model significantly improves audio quality compared to current state-of-the-art approaches.  
+   
+* **Gradio**: A Framework for Building Interactive Demos  
+    + [Gradio](https://gradio.app) is an excellent tool for creating intuitive interfaces for machine learning models, enhancing user engagement and simplifying the demonstration of model capabilities.
+* **VoiceRestore**: An Advanced Audio Restoration Model  
+  + [VoiceRestore](https://huggingface.co/spaces/ZhengPeng7/BiRefNet_demo) 🕊️ (free) utilizes Flow-Matching Transformers for superior sound quality restoration, effectively handling reverb, distortions, and noise, making it highly efficient for sound editing tasks.
   
 ### Audio Translation: Speech-to-Speech 🗣️➡️🗣️
 
@@ -121,6 +129,8 @@ I'm unable to extract information from the image directly. If you can describe t
     + Pyramid Flow is the leading open-source model that supports text-to-video and image-to-video generation. It outperforms with high resolution at 512px (seconds) and 768px (10s).  
     + Links: [Link 1](https://lnkd.in/gFe-HdHV), [Link 2](https://lnkd.in/gZWbt2q).  
 
+* **Gradio**: A Versatile Tool for Building Machine Learning Demos  
+   + [Gradio](https://www.gradio.app) 🌟 is an innovative platform that simplifies the creation of interactive machine learning applications, allowing users to effortlessly visualize models for computer vision and natural language processing tasks. It enhances accessibility and usability in showcasing state-of-the-art technology.
 
 ### State-of-the-Art Code Generation 💻
 
