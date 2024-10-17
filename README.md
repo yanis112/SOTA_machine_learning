@@ -14,8 +14,6 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 * [Coding Assistants](#coding-assistants) 👨‍💻
 * [Interface and Dashboard Creation](#interface-and-dashboard-creation) 📊
 
-**Text-based Models** ✍️
-----------------------
 
 ### Fast/Small Language Models ⚡
 
@@ -23,10 +21,6 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 	+ [SmolLLM](https://huggingface.co/smolllm) 🕊️ (free) is a small but powerful language model that achieves high accuracy on various natural language processing tasks.
 * **Groq LLaMA 3.1 70B**: A Highly Performant Language Model for Extremely Fast Inference  
 	+ [Groq LLaMA 3.1 70B](https://console.groq.com/playground?model=llama-3.1-70b-versatile) 🕊️ (free) is a highly performant language model for fast inference, offering a playground and free API for testing.
-
-
-**Image-based Models** 🖼️
-----------------------
 
 ### Image Generation 🖌️
 
@@ -57,9 +51,6 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 **Segment Anything 2 (SAM2)**: Advanced Visual Segmentation for Images and Videos  
 * [Segment Anything 2 (SAM2)](https://github.com/facebookresearch/segment-anything-2) 🕊️ (free) by Facebook is a powerful tool for visual segmentation tasks. This model builds on the original SAM by extending its capabilities to video, allowing for real-time, interactive segmentation in both images and videos. SAM2 uses a transformer-based architecture optimized for efficiency and high performance across various visual domains, making it suitable for applications requiring promptable segmentation and tracking.
 
-**Audio-based Models** 🎧
-----------------------
-
 ### Audio Transcription 📝
 
 * **Whisper v3**: A State-of-the-Art Speech Recognition Model  
@@ -83,17 +74,10 @@ This repo solves this by helping you keeping track with the last SOTA techniques
 * **Silero VAD v5**: A Cutting-Edge Voice Activity Detection Model  
 	+ [Silero VAD v5](https://github.com/snakers4/silero-vad) 🕊️ (free) is a highly accurate voice activity detection model designed to differentiate between speech and non-speech segments in audio. It is known for its efficiency and low latency, making it suitable for real-time applications.
 
-
-**Video-based Models** 🎥
-----------------------
-
 ### Video Generation 🎬
 
 * **Luma Labs Dream Machine**: A Text-to-Video Model  
 	+ [Luma Labs Dream Machine](https://lumalabs.ai/dream-machine) 🕊️ (free, up to 4 generations per day) is a powerful text-to-video model that can generate videos from text prompts.
-
-**Coding Assistants** 👨‍💻
-----------------------
 
 ### State-of-the-Art Code Generation 💻
 
